@@ -2,6 +2,8 @@
   "name": "Russian",
   "code": "ru",
   "translations": {
-    "WINDOW_NAME": "МакФрисХаб"
+    "WINDOW_NAME": "МакФрисХаб",
+
+    "TABS_SETTINGS_NAME": "Настройки"
   }
 }
