@@ -1,0 +1,10 @@
+{
+  "name": "Portuguese",
+  "code": "pt",
+  "translations": {
+    "WINDOW_NAME": "MacFriesHub",
+    "EXECUTOR_NOT_SUPPORTED": "O seu executor não é suportado; você pode encontrar erros ao usar o script em um executor não suportado.",
+
+    "TABS_SETTINGS_NAME": "Configurações"
+  }
+}
