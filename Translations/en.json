@@ -2,6 +2,8 @@
   "name": "English",
   "code": "en",
   "translations": {
-    "WINDOW_NAME": "MacFriesHub"
+    "WINDOW_NAME": "MacFriesHub",
+
+    "TABS_SETTINGS_NAME": "Settings"
   }
 }
