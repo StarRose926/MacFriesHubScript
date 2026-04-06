@@ -2,6 +2,8 @@
   "name": "Indonesian",
   "code": "id",
   "translations": {
-    "WINDOW_NAME": "MacFriesHub"
+    "WINDOW_NAME": "MacFriesHub",
+
+    "TABS_SETTINGS_NAME": "Pengaturan"
   }
 }
