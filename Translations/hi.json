@@ -1,6 +1,7 @@
 {
   "name": "Hindi",
   "code": "hi",
+  "support": "mid",
   "translations": {
     "WINDOW_NAME": "मैकफ्राइज़हब",
     "EXECUTOR_NOT_SUPPORTED": "आपका एक्जीक्यूटर समर्थित नहीं है, असमर्थित एक्जीक्यूटर पर स्क्रिप्ट में बग आ सकते हैं।",
