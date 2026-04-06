@@ -1,5 +1,7 @@
 {
   "name": "Indonesian",
   "code": "id",
-  "translations": {}
+  "translations": {
+    "WINDOW_NAME": "Pusat MacFries"
+  }
 }
