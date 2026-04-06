@@ -1,5 +1,7 @@
 {
   "name": "Russian",
   "code": "ru",
-  "translations": {}
+  "translations": {
+    "WINDOW_NAME": "МакФрисХаб"
+  }
 }
