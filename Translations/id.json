@@ -3,6 +3,7 @@
   "code": "id",
   "translations": {
     "WINDOW_NAME": "MacFriesHub",
+    "EXECUTOR_NOT_SUPPORTED": "Executor Anda tidak didukung, Anda mungkin menemukan bug pada skrip di Executor yang tidak didukung.",
 
     "TABS_SETTINGS_NAME": "Pengaturan"
   }
