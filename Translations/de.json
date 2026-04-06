@@ -3,6 +3,7 @@
   "code": "de",
   "translations": {
     "WINDOW_NAME": "MacFriesHub",
+    "EXECUTOR_NOT_SUPPORTED": "Ihr Executor wird nicht unterstützt; auf einem nicht unterstützten Executor können Fehler im Skript auftreten.",
 
     "TABS_SETTINGS_NAME": "Einstellungen"
   }
