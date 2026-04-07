@@ -3,7 +3,8 @@
   "code": "de",
   "translations": {
     "WINDOW_NAME": "MacFriesHub",
-    
+
+    "DISCORD_INVITE_BUTTON": "Discord-Einladung kopieren",
     "DISCORD_INVITE_DESCRIPTION": "Tritt unserem Discord-Server bei, um Updates und Ankündigungen zu erhalten, dich mit anderen Nutzern auszutauschen, um Hilfe zu bekommen oder einfach nur Spaß zu haben.",
     
     "EXECUTOR_NOT_SUPPORTED": "Ihr Executor wird nicht unterstützt; bei der Verwendung des Skripts auf einem nicht unterstützten Executor können Fehler auftreten.",
