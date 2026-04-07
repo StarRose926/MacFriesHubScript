@@ -7,7 +7,7 @@
 
     "ERROR_NOTIFICATION_CONTENT_MAIN": "Please open the Console by %s or Typing \"/console\" in the Chat",
     "ERROR_NOTIFICATION_DESKTOP": "Pressing F9",
-    "ERROR_NOTIFICATION_MOBILE": "opening the Roblox Settings In-Game, going to the \"Settings\" Tab, and under \"Developer Console\", press the \"Open\" Button",
+    "ERROR_NOTIFICATION_MOBILE": "opening the Roblox Settings In-Game, going to the \"Settings\" Tab, and under \"Developer Console\", pressing the \"Open\" Button",
 
     "TABS_SETTINGS_NAME": "Settings"
   }
