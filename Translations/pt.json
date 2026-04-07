@@ -3,6 +3,10 @@
   "code": "pt",
   "translations": {
     "WINDOW_NAME": "MacFriesHub",
+
+    "DISCORD_INVITE_BUTTON": "Copiar convite do Discord",
+    "DISCORD_INVITE_DESCRIPTION": "Junte-se ao nosso servidor do Discord para receber atualizações, anúncios, conversar com outros usuários para obter ajuda ou simplesmente se divertir.",
+    
     "EXECUTOR_NOT_SUPPORTED": "O seu executor não é suportado; você pode encontrar erros ao usar o script em um executor não suportado.",
 
     "ERROR_NOTIFICATION_DESKTOP": "Por favor, abra o console pressionando F9 ou digitando \"/console\" no chat.",
