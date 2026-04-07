@@ -3,6 +3,10 @@
   "code": "id",
   "translations": {
     "WINDOW_NAME": "MacFriesHub",
+
+    "DISCORD_INVITE_BUTTON": "Salin Undangan Discord",
+    "DISCORD_INVITE_DESCRIPTION": "Gabung ke server Discord kami untuk menerima pembaruan, pengumuman, mengobrol dengan pengguna lain untuk meminta bantuan, atau sekadar bersenang-senang.",
+    
     "EXECUTOR_NOT_SUPPORTED": "Executor Anda tidak didukung, Anda mungkin menemukan bug pada skrip di Executor yang tidak didukung.",
 
     "ERROR_NOTIFICATION_DESKTOP": "Silakan buka konsol dengan menekan F9 atau dengan mengetik \"/console\" di obrolan.",
