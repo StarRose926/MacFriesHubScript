@@ -5,6 +5,10 @@
     "WINDOW_NAME": "MacFriesHub",
     "EXECUTOR_NOT_SUPPORTED": "Your Executor is not supported, you may find bugs with the Script on an unsupported Executor.",
 
+    "ERROR_NOTIFICATION_CONTENT_MAIN": "Please open the Console by %s or Typing \"/console\" in the Chat",
+    "ERROR_NOTIFICATION_DESKTOP": "Pressing F9",
+    "ERROR_NOTIFICATION_MOBILE": "open the Roblox Settings In-Game and under \"Developer Console\", press \"Open\"",
+
     "TABS_SETTINGS_NAME": "Settings"
   }
 }
