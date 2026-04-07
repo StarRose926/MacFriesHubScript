@@ -5,6 +5,9 @@
     "WINDOW_NAME": "MacFriesHub",
     "EXECUTOR_NOT_SUPPORTED": "Executor Anda tidak didukung, Anda mungkin menemukan bug pada skrip di Executor yang tidak didukung.",
 
+    "ERROR_NOTIFICATION_DESKTOP": "Silakan buka konsol dengan menekan F9 atau dengan mengetik \"/console\" di obrolan.",
+    "ERROR_NOTIFICATION_MOBILE": "Silakan buka konsol dengan mengklik tab \"Pengaturan\" di pengaturan dalam game Roblox, lalu klik tombol \"Buka\" di bawah \"Konsol Pengembang\" atau dengan mengetik \"/console\" di obrolan.",
+
     "TABS_SETTINGS_NAME": "Pengaturan"
   }
 }
