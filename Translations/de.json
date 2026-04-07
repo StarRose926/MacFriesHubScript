@@ -5,6 +5,9 @@
     "WINDOW_NAME": "MacFriesHub",
     "EXECUTOR_NOT_SUPPORTED": "Ihr Executor wird nicht unterstützt; bei der Verwendung des Skripts auf einem nicht unterstützten Executor können Fehler auftreten.",
 
+    "ERROR_NOTIFICATION_DESKTOP": "Bitte öffnen Sie die Konsole durch Drücken von F9 oder durch Eingabe von \"/console\" im Chat.",
+    "ERROR_NOTIFICATION_MOBILE": "Bitte öffne die Konsole, indem du (in den Roblox-Einstellungen im Spiel auf den Tab „Einstellungen“ und unter „Entwicklerkonsole“ auf die Schaltfläche „Öffnen“ klickst) oder „/console“ im Chat eingibst.",
+    
     "TABS_SETTINGS_NAME": "Einstellungen"
   }
 }
